@@ -25,10 +25,10 @@
 ✨ **Solo Coded a Full-Featured Ranked Discord Bot**
 
 - 💻 Developed entirely by me – no team, no templates.
-- ⚔️ Includes a matchmaking queue system, custom ranking (Elo/MMR), real-time player stats, leaderboards, and admin tools.
-- 🧠 Built using technologies like **Node.js**, **MongoDB**, and **Discord.js**.
+- ⚔️ Includes a matchmaking queue system, custom ranking (Elo), real-time player stats, leaderboards, and admin tools.
+- 🧠 Built using  **Python**.
 - 🎯 Used by competitive communities to run and manage ranked games.
 
-📌 *This project marks a major milestone in my dev journey – handling backend logic, database design, API communication, and user interaction all solo.*
+
 
 🚀 **More features coming soon – and yes, I’m still maintaining it!**
